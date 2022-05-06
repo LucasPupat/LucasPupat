@@ -43,7 +43,7 @@
   
   <h2>Contacts</h2>
   <div align="left">
-    <a href="https://github.com/Virdrox"><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="32"></a>
+    <a href="https://github.com/lpiut"><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="32"></a>
   </div>
   
  </body>
