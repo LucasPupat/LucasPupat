@@ -38,7 +38,7 @@
   
   <h2>Last projects<img src="https://media.giphy.com/media/D0jidt0aW8DD2YZkAB/giphy.gif" alt="Projects gif" width="32"></h2> 
   <div align="center">
-    <a href="https://github.com/Virdrox/SQLtoPYSQLITE3"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Virdrox&repo=SQLtoPYSQLITE3&theme=codeSTACKr"/></a>
+    <!--<a href="https://github.com/Virdrox/SQLtoPYSQLITE3"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Virdrox&repo=SQLtoPYSQLITE3&theme=codeSTACKr"/></a>-->
   </div>
   
   <h2>Contacts</h2>
