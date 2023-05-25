@@ -69,7 +69,7 @@
 | Name                       | Description | Project examples      |
 | - | - | - |
 | <img align="center" src="https://www.javiernunez.com/wp-content/uploads/2016/05/laravel-eloquent-orm.png" width="32"/> [Laravel Eloquent](https://laravel.com/docs/10.x/eloquent) | ORM included in the Laravel PHP framework | - |
-| <img align="center" src="https://assets.stickpng.com/images/58480887cef1014c0b5e48ec.png" width="32"/> [Hibernate](https://hibernate.org/) | Hibernate: ORM framework for Java applications | - |
+| <img align="center" src="https://www.sparks-formation.com/wp-content/uploads/2020/06/logo-hibernate.svg" width="32"/> [Hibernate](https://hibernate.org/) | Hibernate: ORM framework for Java applications | - |
 | <img align="center" src="https://alexandrecastro.dev/wp-content/uploads/2021/12/efcore.png" width="32"/> [Entity Framework](https://learn.microsoft.com/fr-fr/ef/) | ORM framework developed by Microsoft for .NET applications | - |
 
 # DBMS used
