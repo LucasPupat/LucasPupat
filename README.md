@@ -17,10 +17,10 @@
   </div>
   
   <h2>Github Stats <img src="https://media.giphy.com/media/9ram4CnmXzDmI7pLkb/giphy.gif" width="32"></h2> 
-  <div align="center">
-    <img align="center" alt="Stats github" src="https://github-readme-stats.vercel.app/api?username=LucasPupat&theme=codeSTACKr"/> 
-    <img align="center" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPupat&theme=codeSTACKr"/>
-  </div>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img  src="https://github-readme-stats.vercel.app/api?username=LucasPupat&show_icons=true&theme=midnight-purple" />
+  </a>
   
   <h2>Programming language <img src="https://media.giphy.com/media/YIoRLftPZQCFSQXIzp/giphy.gif" alt="Language gif" width="32"></h2>
   <div align="left">
@@ -28,11 +28,10 @@
       <tr align="center" alt="Python logo"><img align="center" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="32"/></tr>
       <tr align="center" alt="Lazarus logo"><img align="center" src="https://cutt.ly/2Sl7rGV" width="32"/></tr>
       <tr align="center" alt="MySQL logo"><img align="center" src="https://cutt.ly/eSl51A0" width="32"/></tr>
-      <tr align="center" alt="OracleSQL logo"><img align="center" src="https://cutt.ly/ZSl6pVo" width="32"/></tr>
       <tr align="center" alt="MariaDB logo"><img align="center" src="https://cutt.ly/eSzt5X1" width="32"/></tr>
-      <tr align="center" alt="C# logo"><img align="center" src="https://cutt.ly/cSl6QlM" width="32"/></tr> 
       <tr align="center" alt="HTML logo"><img align="center" src="https://cutt.ly/iSl6629" width="32"/></tr> 
       <tr align="center" alt="CSS logo"><img align="center" src="https://cutt.ly/tSzwLTZ" width="32"/></tr>
+      <p>WIP<p>
     </table>
   </div>
   
