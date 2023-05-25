@@ -3,15 +3,14 @@
 
 
 # About me <img src="https://media.giphy.com/media/j5iFnQGNeFO8m7l5VR/giphy.gif" alt="Aboutme gif" width="32">
-<div align="center">
-  <p align="center">
+<div>
+  <p>
     Hey, welcome ! 😄<br />
     - 🌱 I’m currently learning in computer science.<br>
     - 📫 How to reach me: Github<br>
     - ⚡ Fun fact: The water is wet ⚡<br>
   </p>
 </div>
-<br />
 
 # Github Stats &nbsp;<img src="https://zupimages.net/up/23/21/d5qm.png" width="32"></h2> 
 
