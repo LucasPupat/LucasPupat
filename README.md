@@ -21,6 +21,8 @@
 
 # Programming language <img src="https://media.giphy.com/media/YIoRLftPZQCFSQXIzp/giphy.gif" alt="Language gif" width="32">
 
+<!--
+
 | Name                       | Type of projects already completed                   | Project examples      |
 | - | - | - |
 | **Most frequently used languages** |
@@ -88,6 +90,7 @@
 <div align="center">
   <!--<a href="https://github.com/Virdrox/SQLtoPYSQLITE3"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Virdrox&repo=SQLtoPYSQLITE3&theme=codeSTACKr"/></a>-->
 </div>
+-->
 
 # Contacts 
 <div align="left">
