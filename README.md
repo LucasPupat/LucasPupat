@@ -18,7 +18,7 @@
   <img  src="https://github-readme-stats.vercel.app/api?username=LucasPupat&show_icons=true&theme=midnight-purple" />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPupat&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPupat&layout=compact&theme=midnight-purple)
 
 <br />
 
