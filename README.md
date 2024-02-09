@@ -17,6 +17,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img  src="https://github-readme-stats.vercel.app/api?username=LucasPupat&show_icons=true&theme=midnight-purple" />
 </a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPupat&layout=compact)
+
 <br />
 
 # Programming language <img src="https://media.giphy.com/media/YIoRLftPZQCFSQXIzp/giphy.gif" alt="Language gif" width="32">
